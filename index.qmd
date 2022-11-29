@@ -1,5 +1,5 @@
 ---
-title: "exemplo-quarto-aula-relatorios"
+title: "Boas vindas ao exemplo!"
 ---
 
 This is a Quarto website.
