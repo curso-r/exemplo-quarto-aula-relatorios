@@ -27,6 +27,8 @@ jobs:
           packages: |
             any::rmarkdown
             any::knitr
+            any::dados
+            any::tidyverse
 
 
       - name: Publish to GitHub Pages (and render)
